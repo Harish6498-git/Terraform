@@ -1,0 +1,7 @@
+* terraform init
+
+* terraform plan -generate-config-out=generated_resources.tf
+
+* terraform import aws_instance.example i-0fa557ac47b36671d
+
+* terraform plan 
